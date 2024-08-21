@@ -1,0 +1,7 @@
+2024-08-21 22:19:35,337 - INFO - Starting to scrape the website: https://example.com
+2024-08-21 22:19:35,937 - INFO - Successfully retrieved the page: https://example.com
+2024-08-21 22:19:35,938 - INFO - Extracted the following headings:
+2024-08-21 22:19:35,938 - INFO - Example Domain
+2024-08-21 22:19:35,938 - INFO - Extracted the following links:
+2024-08-21 22:19:35,938 - INFO - Text: More information..., URL: https://www.iana.org/domains/example
+2024-08-21 22:19:35,938 - INFO - Scraping process completed.
